@@ -1,0 +1,87 @@
+<HTML>
+<head>
+    <title> adidas </title>
+	<link href="C:\wamp64\www\web project\men.css" type="text/css" rel="stylesheet" />
+	
+	<body>
+	<div class="container">
+    
+  </div>
+
+<div class="topnav2" id="myTopnav">
+<a href="home.html" >Home</a>
+  <a href="men.html">Shoes</a>
+  <a href="mbags.html">Bags</a>
+  <a href="mtshirt.html" >Tops & Tshirts</a>
+  <a href="mjackets.html">Jackets</a>
+  <a href="mpants.html" class="current">Pants</a>
+</div>
+
+<body>
+
+	<figure>
+<div class="div1">
+<input type="image" src="madidaspants.jpg" alt="submit">
+<p> Code No.156
+<br>Price: $80 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div2">
+<img src="madidaspants2.jpg">
+<p> Code No.125 
+<br> Price:$90  </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div3">
+<img src="madidaspants3.jpg">
+<p> Code No.785 
+<br> Price:$80 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div4">
+<img src="madidaspants4.jpg">
+<p> Code No.964 
+<br> Price:$75 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div5">
+<img src="madidaspants5.jpg">
+<p> Code No.462 
+<br> Price:$75 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div6">
+<img src="madidaspants6.jpg">
+<p> Code No.761 
+<br> Price:$80 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+
+</figure>
+
+</body>
+
+</html>
+

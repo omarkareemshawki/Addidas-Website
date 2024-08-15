@@ -1,0 +1,87 @@
+<HTML>
+<head>
+    <title> adidas </title>
+	<link href="C:\wamp64\www\web project\men.css" type="text/css" rel="stylesheet" />
+	
+	<body>
+	<div class="container">
+    
+  </div>
+
+<div class="topnav2" id="myTopnav">
+<a href="home.html" >Home</a>
+  <a href="men.html" class="current">Shoes</a>
+  <a href="mbags.html">Bags</a>
+  <a href="mtshirt.html">Tops & Tshirts</a>
+  <a href="mjackets.html">Jackets</a>
+  <a href="mpants.html">Pants</a>
+</div>
+
+<body>
+
+	<figure>
+<div class="div1">
+<input type="image" src="amenshoes.jpg" alt="submit">
+<p> Code No.184
+<br>Price: $60 </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div2">
+<img src="amenshoes2.jpg">
+<p> Code No.856 
+<br> Price:$65  </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div3">
+<img src="amenshoes3.jpg">
+<p> Code No.965 
+<br> Price:$70 </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div4">
+<img src="amenshoes4.jpg">
+<p> Code No.167 
+<br> Price:$85 </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div5">
+<img src="amenshoes5.jpg">
+<p> Code No.852 
+<br> Price:$90 </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div6">
+<img src="amenshoes6.jpg">
+<p> Code No.964 
+<br> Price:$110 </br>select size:
+40<input type="radio" name="size" value="m">
+42<input type="radio" name="size" value="m"> 
+44<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+
+</figure>
+
+</body>
+
+</html>
+

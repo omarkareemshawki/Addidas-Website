@@ -1,0 +1,50 @@
+<HTML>
+<head>
+    <title> adidas </title>
+	<link href="C:\wamp64\www\web project\signup.css" type="text/css" rel="stylesheet" />
+	
+	<body>
+	
+
+<div class="topnav" id="myTopnav">
+   <a href="home.html" class="current">Home</a>
+  <a href="signup.html" class="current">Register Here</a>
+ <a href="login.html" class="current">login Here</a>
+ 
+</div>
+
+</body>
+
+  
+    <body>
+
+      <form id="form_id" action="insert.php" method="post" name="myform">
+      
+        <h1>Sign Up</h1>
+        <form id="form1">
+        <fieldset>
+         
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="user_name">
+          
+          <label for="mail">Email:</label>
+          <input type="email" id="mail" name="user_email">
+          
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="user_password">
+		  
+		  <label for="number">Contact Number:</label>
+		  <input type="text" id="number" name="user_number">
+          
+          <label>Age:</label>
+          <input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 18</label><br>
+          <input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">18 or older</label>
+        </fieldset>
+        
+        <button type="submit">Sign Up</button>
+		</form>
+      </form>
+      
+    </body>
+
+</html>

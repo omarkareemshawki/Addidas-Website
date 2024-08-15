@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>  adidas </title>
+	<link href="C:\wamp64\www\web project\signup.css" type="text/css" rel="stylesheet" />
+	<body>
+	<div class="topnav" id="myTopnav">
+	<a href="home.html" class="current">Home</a>
+  <a href="signup.html" class="current">Register Here</a>
+  <a href="login.html" class="current">login Here</a>
+   
+
+</div>
+<form id="form_id" action="home.html" method="post" name="myform">
+<h1>LOGIN</h1>
+  <input type="text" id="username" placeholder="Username">
+  <input type="password" id="password" placeholder="Password">
+   <button type="submit">login</button>
+ 
+</form>
+
+</body>
+</head>
+</html>

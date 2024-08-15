@@ -1,0 +1,29 @@
+<HTML>
+<head>
+    <title> adidas </title>
+	<link href="C:\wamp64\www\web project\signup.css" type="text/css" rel="stylesheet" />
+	<link href="C:\wamp64\www\web project\men.css" type="text/css" rel="stylesheet" />
+	
+</head>	
+<div class="topnav" id="myTopnav">
+  <a href="home.html" class="current">Home</a>
+  <a href="signup.html" class="current">Register Here</a>
+ <a href="login.html" class="current">login Here</a>
+ 
+</div>
+	<body>
+	<div>
+	<p><a href="men.html" class="button">MEN</a></p>
+       
+    </div>
+  
+    <div >
+	<p><a href="women.html" class="button">WOMEN</a></p>
+       
+    </div>
+	
+	
+	</body>
+	
+	
+	</html>

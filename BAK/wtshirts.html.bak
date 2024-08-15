@@ -1,0 +1,87 @@
+<HTML>
+<head>
+    <title> adidas </title>
+	<link href="C:\wamp64\www\web project\men.css" type="text/css" rel="stylesheet" />
+	
+	<body>
+	<div class="container">
+    
+  </div>
+
+<div class="topnav2" id="myTopnav">
+<a href="home.html" >Home</a>
+  <a href="women.html">Shoes</a>
+  <a href="wbags.html" >Bags</a>
+  <a href="wtshirts.html" class="current">Tops & Tshirts</a>
+  <a href="wjackets.html">Jackets</a>
+  <a href="wpants.html">Pants</a>
+  
+</div>
+
+
+<body>
+
+<figure>
+<div class="div1">
+<input type="image" src="wadidastshirt.jpg" alt="submit">
+<p> Code No.111
+<br>Price: $40 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div2">
+<img src="wadidastshirt2.jpg">
+<p> Code No.333 
+<br> Price:$35  </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+<div class="div3">
+<img src="wadidastshirt3.jpg">
+<p> Code No.444 
+<br> Price:$55 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div4">
+<img src="wadidastshirt4.jpg">
+<p> Code No.555 
+<br> Price:$50 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div5">
+<img src="wadidastshirt5.jpg">
+<p> Code No.666 
+<br> Price:$50 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+<div class="div6">
+<img src="wadidastshirt6.jpg">
+<p> Code No.999 
+<br> Price:$45 </br>select size:
+M<input type="radio" name="size" value="m">
+L<input type="radio" name="size" value="m"> 
+XL<input type="radio" name="size" value="m"></p>
+<p><a href="buy.html" class="button">Buy Now</a></p>
+</div>
+
+
+</figure>
+</body>
+
+</html>
